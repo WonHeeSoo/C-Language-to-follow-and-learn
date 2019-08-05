@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+/*#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -12,4 +12,4 @@ int main()
 	printf("Value is %d\n", i);
 
 	return 0;
-}
+}*/
